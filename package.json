@@ -1,0 +1,11 @@
+{
+  "name": "sn-theme-monochrome-dark",
+  "version": "1.0",
+  "sn": {
+    "main": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Parkertg/sn-theme-monochrome-dark.git"
+  }
+}

@@ -1,5 +1,5 @@
 # sn-theme-monochrome-dark
-A near monochrome dark theme for Standard Notes
+A near-monochrome dark theme for Standard Notes
 
 
 ## Install Link
